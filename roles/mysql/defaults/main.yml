@@ -1,0 +1,11 @@
+---
+wp_version: 4.8.1
+wp_db_name: wordpress
+wp_db_user: wordpress
+wp_db_password: secret
+wp_sha256sum: 785f4c715c87aaef9023b3cf796f62ff4aa25f82dfd5c6d895667da184
+
+
+# MySQL settings
+mysqlservice: mysqld
+mysql_port: 3306
