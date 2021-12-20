@@ -6,4 +6,4 @@ Intsall wordpress on Ubuntu 20.04 via ansible playbook
 - PHP-FPM
 - Wordpress (with predownloaded files)
 
-Download latest wordpress files, uncomment the download lines in the wordpress main task and comment out the Shell Copy line
+To download latest wordpress files, uncomment the download lines in the wordpress main task and comment out the Shell Copy line
